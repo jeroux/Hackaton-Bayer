@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jeremy-lipszyc/)
 
 
-![First Epoch](https://github.com/jeroux/Hackaton-Bayer/blob/development/app/images/logo.png)
+![First Epoch](https://github.com/jeroux/Hackaton-Bayer/blob/main/app/images/logo.png)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
