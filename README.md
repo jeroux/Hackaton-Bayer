@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Hunger For None][product-screenshot]](https://github.com/jeroux/Hackaton-Bayer/blob/development/app/images/logo2.png)
+[![Hunger For None][product-screenshot]](https://github.com/jeroux/Hackaton-Bayer/blob/main/app/images/logo2.png)
 
 This hackathon took place during last weekend of May 2021, with more than 400 participation. 
 The purpose of this project is to use object detection 
@@ -124,10 +124,10 @@ Modelling steps:
       * create a small upstream model on top of the MobileNet using the functional API
       * Add Adam Optimizer
       * Training the model
-      ![First Epoch](https://github.com/jeroux/Hackaton-Bayer/blob/development/app/images/epoch1.png)
-        ![Last Epoch](https://github.com/jeroux/Hackaton-Bayer/blob/development/app/images/epoch25.png)
+      ![First Epoch](https://github.com/jeroux/Hackaton-Bayer/blob/main/app/images/epoch1.png)
+        ![Last Epoch](https://github.com/jeroux/Hackaton-Bayer/blob/main/app/images/epoch25.png)
       * Review the process (plot)
-        ![review](https://github.com/jeroux/Hackaton-Bayer/blob/development/app/images/review.png)
+        ![review](https://github.com/jeroux/Hackaton-Bayer/blob/main/app/images/review.png)
       * Save the model    
    * Train Model on our dataset
    * Plotting Loss/Accuracy graph (informative purpose)
@@ -139,7 +139,7 @@ Flask api :
    * Loading Model
    * Add images from the list of test fruit and see result
 
-![review](https://github.com/jeroux/Hackaton-Bayer/blob/development/app/images/SPOILER_Capture_decran_de_2021-05-29_16-50-28.png)
+![review](https://github.com/jeroux/Hackaton-Bayer/blob/main/app/images/SPOILER_Capture_decran_de_2021-05-29_16-50-28.png)
 
 
 
